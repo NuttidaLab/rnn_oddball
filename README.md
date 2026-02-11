@@ -17,3 +17,5 @@ conda env create -f tf2.yml
 conda activate tf2
 ```
 This environment uses Python 3.6 and TensorFlow 2.6.2. For additional details on training requirements, please refer to the spikeRNN repository: https://github.com/rkim35/spikeRNN
+
+Installation typically takes ~3–4 minutes on a standard workstation (e.g., 4–8 CPU cores, ≥16 GB RAM) but may vary depending on internet speed and package download times.
